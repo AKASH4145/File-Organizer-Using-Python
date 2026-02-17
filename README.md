@@ -35,7 +35,7 @@ file-organizer/
 ---
 ## Setup and Run
 
-git clone https://github.com/<AKASH4145>/File-Organizer-Using-Python.git >> 
+git clone https://github.com/AKASH4145/File-Organizer-Using-Python.git >> 
 cd file-organizer >>
 python organizer.py
 
